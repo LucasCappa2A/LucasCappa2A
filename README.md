@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lucas
 
 <!--
 **LucasCappa2A/LucasCappa2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
